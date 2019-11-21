@@ -6,5 +6,7 @@ git clone https://github.com/Launchpack/Test_Vue.git
 
 npm install
 
+git checkout -b "브랜치 이름"
+
 테스트 시작!
 ```
