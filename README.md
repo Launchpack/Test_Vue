@@ -1,29 +1,10 @@
-# vue_test
+# 런치팩 프론트엔드 코딩테스트
 
-## Project setup
+### 프로젝트 시작
 ```
+git clone https://github.com/Launchpack/Test_Vue.git
+
 npm install
-```
 
-### Compiles and hot-reloads for development
+테스트 시작!
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
